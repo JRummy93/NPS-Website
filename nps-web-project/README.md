@@ -1,0 +1,1 @@
+This is a personal project created to practice and demonstrate skill in developing a website using react and next.js. The goal is to take the free national park services api to create something new and useful for others who enjoy the natural beauty there is to enjoy. 
